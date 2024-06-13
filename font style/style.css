@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Teko:wght@300..700&family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Spicy+Rice&family=Teko:wght@300..700&family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Gwendolyn:wght@400;700&family=Spicy+Rice&display=swap');
+#mh2 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#mh3 {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#mh4 {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#mh1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#mh1 {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#mh1 {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.mh5 {
+    font-family: "Gwendolyn", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mh6 {
+    font-family: "Gwendolyn", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.mh7 {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
